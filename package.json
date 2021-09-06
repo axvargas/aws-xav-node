@@ -1,0 +1,19 @@
+{
+  "name": "xav-node-backend",
+  "version": "1.0.0",
+  "description": "aws example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "node"
+  ],
+  "author": "Andres X. Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
